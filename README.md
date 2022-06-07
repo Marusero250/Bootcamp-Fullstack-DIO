@@ -1,8 +1,8 @@
 # Bootcamp-Fullstack-DIO
 * Repositórios de cronologia do Bootcamp
 
-## Boas Vindas, Metodologia e contrato.
+## Boas Vindas.
 
-## Seja Protagonista.
+## Introdução a Computação.
 
 
